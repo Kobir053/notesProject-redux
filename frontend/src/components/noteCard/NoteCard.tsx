@@ -25,4 +25,4 @@ const NoteCard: React.FC<NoteCardProps> = ({ note }) => {
   )
 }
 
-export default NoteCard
+export default NoteCard;
